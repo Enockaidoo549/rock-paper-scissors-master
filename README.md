@@ -1,5 +1,4 @@
-# rock-paper-scissors-game###
-Rules
+### Rules
 
 If the player wins, they gain 1 point. If the computer wins, the player loses one point.
 
